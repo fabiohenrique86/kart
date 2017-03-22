@@ -38,7 +38,7 @@ namespace Kart
             }
             catch (Exception ex)
             {
-
+                Console.WriteLine(ex.ToString());
             }
         }
     }
